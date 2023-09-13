@@ -9,7 +9,7 @@ Document Databases store data in form of documents, they are a type of key-value
 Graph Databases can be seen as another form of Document databases involving a relationship. Graph databases consists of node, property and edge.
 Columnar databases store data in columns. Columnar databases are very useful to read data more efficiently and return queries with greater speed.
 Data Lake house
-/week-2/dlh.png
+
 Data Lakehouse can be seen as merging of Data Warehouse and Data Lake involving a meta and governance layer.
 Data lake houses are extension of data warehouse. Merging them together into a single system eases data flow and teams can access data faster as they can handle data connecting to one system instead of various servers. 
 References
