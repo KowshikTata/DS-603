@@ -9,10 +9,11 @@ The word NoSQL refers to the not only SQL databases which means there are other 
 + ***Graph Databases*** can be seen as another form of Document databases involving a relationship. Graph databases consists of node, property and edge.
 - ***Columnar databases*** store data in columns. Columnar databases are very useful to read data more efficiently and return queries with greater speed.
 ### Data Lake house
-#### ![Dlh](https://media.thoughtspot.com/35707/1668566973-what-is-a-data-lakehouse_seo-hub.jpg?auto=format&fit=max&w=600)
 Data Lakehouse can be seen as merging of Data Warehouse and Data Lake involving a meta and governance layer.
 Data lake houses are extension of data warehouse.
 Merging them together into a single system eases data flow and teams can access data faster as they can handle data connecting to one system instead of various servers.
+#### ![Dlh](https://media.thoughtspot.com/35707/1668566973-what-is-a-data-lakehouse_seo-hub.jpg?auto=format&fit=max&w=600)
+
 ### Articles
 1. [Digital Ocean NOSQL Databases](https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models)
 1. [Data Lake House](https://www.databricks.com/glossary/data-lakehouse)
