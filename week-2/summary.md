@@ -1,7 +1,7 @@
 NoSQL Databases
 The word NoSQL refers to the not only SQL databases which means there are other database systems other than relational database systems. It was first coined in 1998 by Carlo Strozzi. It got a new meaning after 2009 when Johan Oskarsson discussed about open source databases.
 Under NoSQL there are various data models like 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Types of NoSQL Databases](https://abcloudz.com/wp-content/uploads/2021/01/NoSQL.png?x12144)
                    
 A key-value database is a type of nonrelational database that uses a simple key-value method to store data without any relation unlike relational database systems consisting of rows and columns
 Document Databases store data in form of documents, they are a type of key-value databases where document consists of many key value pairs and document itself serves as a value. It is similar to JSON, XML.
